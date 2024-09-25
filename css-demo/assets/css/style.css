@@ -1,0 +1,21 @@
+/* CSS Demo Stylesheet */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+
+body{
+    background-color:palegreen;
+    .jacquarda-bastarda-9-regular {
+        font-family: "Jacquarda Bastarda 9", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      
+}
