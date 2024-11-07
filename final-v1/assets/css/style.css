@@ -1,3 +1,50 @@
+/***Color Theme
+#273273 - royal blue
+#657BA6 - med blue
+#9AAFD9 - light blue
+#260C0C - burgundy
+#0D0D0D - smoky black
+*/
+
+/*  ---------------Responsive Images-----------------  */
+
+img{
+  max-width:100%;
+}
+
+/*  ---------------Utility-----------------  */
+
+.container{
+  width: 80vw;
+  max-width:960px;
+  margin: 40px auto
+  }
+
+.img-right{
+  float:right;
+  margin:10px 0 10px 20px;
+  border:3px solid #11090e;
+  padding:5px;
+  border-radius:50px;
+}
+
+.img-left{
+  float:left;
+  margin:10px 20px 10px 0;
+  border:3px solid #11090e;
+  padding:5px;
+  border-radius:50px;
+}
+
+.img-center{
+  display:block;
+  margin:20px auto;
+}
+
+  
+/*  ---------------Global Styles-----------------  */
+
+
 html {
     box-sizing: border-box;
   }
