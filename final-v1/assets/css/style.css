@@ -77,9 +77,10 @@ html {
     text-decoration:none;
   }
   
-  header.primary h2{
+  #secondary{
     font-size:1.5rem;
     margin:0;
+    text-align: center;
   }
   
   nav.primary{
